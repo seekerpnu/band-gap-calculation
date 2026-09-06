@@ -9,6 +9,14 @@ Band structure and density of states (DOS) analysis for CuS and MnFe₂O₄ mate
 | CuS (Copper Sulfide) | mp-504 |
 | MnFe₂O₄ (Manganese Iron Oxide) | mp-18750 |
 
+## Figures
+
+| CuS Band Structure + DOS | MnFe₂O₄ Band Structure + DOS |
+|:------------------------:|:-----------------------------:|
+| ![CuS](figures/CuS_band_DOS.png) | ![MnFe2O4](figures/MnFe2O4_band_DOS.png) |
+
+![Band Alignment](figures/band_alignment.png)
+
 ## Contents
 
 ### Notebooks
